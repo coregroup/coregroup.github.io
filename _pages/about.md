@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Priscylla Silva Academic Personal Website"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
