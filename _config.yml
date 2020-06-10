@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Teacher at Federal Institute of Alagoas"
   location         : "Brazil"
-  employer         : "IFAL"
+  employer         : # "IFAL"
   pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com.br/citations?user=iVYE88IAAAAJ"
   email            :
