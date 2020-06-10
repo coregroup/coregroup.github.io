@@ -1,5 +1,5 @@
 ---
-title: "Blogs Content"
+title: "Blogs"
 layout: archive
 permalink: /blogs-content/
 ---
