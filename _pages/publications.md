@@ -7,6 +7,8 @@ author_profile: true
 
 Recent Publications (selected and in English only)
 
+You can also find all my papers on [my Google Scholar](https://scholar.google.com.br/citations?user=iVYE88IAAAAJ) or in my [CV (Lattes) in Portuguese](http://lattes.cnpq.br/9474452617185092).
+
 ## 2019
 
 SILVA, P., COSTA, E., AND DE ARAÚJO, J. R. An Adaptive Approach to Provide Feedback for Students in Programming Problem Solving. In Intelligent Tutoring Systems (Cham, 2019), A. Coy, Y. Hayashi, and M. Chang, Eds., Springer International Publishing, pp. 14 – 23. [paper here](https://doi.org/10.1007/978-3-030-22244-4_3)
