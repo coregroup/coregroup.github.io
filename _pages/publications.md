@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Recent Publications (selected and in English only)
-
 You can also find all my papers on [my Google Scholar](https://scholar.google.com.br/citations?user=iVYE88IAAAAJ) or in my [CV (Lattes) in Portuguese](http://lattes.cnpq.br/9474452617185092).
+
+# Recent Publications (selected and in English only)
 
 ## 2019
 
