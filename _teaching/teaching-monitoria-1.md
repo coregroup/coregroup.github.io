@@ -1,5 +1,5 @@
 ---
-title: "Monotoria"
+title: "Monitoria"
 collection: teaching
 permalink: /teaching/teaching-monitoria-1
 venue: "Instituto Federal de Alagoas, Campus Rio Largo"
