@@ -22,15 +22,15 @@ Os estudantes podem se tornar monitores por meio de processo seletivo via edital
 * Ter oportunidade de aprender novas tecnologias que vão além dos conteúdos contidos no plano de ensino da disciplina;
 
 ## Atividades realizadas pelo monitor
-. Estar presente para auxiliar a professora no laboratório no horário das aulas da disciplina;
-. Ter horário disponível para atendimento aos alunos na sala de monitoria (não chegar atrasado e comunicar com antecedência em caso de falta);
-. Ajudar os alunos na realização de exercícios, provendo um feedback com qualidade e comprometido com seu dever de ajudar os alunos com dificuldades;
-. Participar da reunião semanal com a professora para apresentar relatório sobre a participação e desempenho dos alunos que frequentaram a monitoria durante a semana;
-. Manter uma lista de assinatura semanal com os alunos que frequentaram a monitoria;
-. Manter o blog da disciplina (caso essa ferramenta esteja sendo utilizada);
+* Estar presente para auxiliar a professora no laboratório no horário das aulas da disciplina;
+* Ter horário disponível para atendimento aos alunos na sala de monitoria (não chegar atrasado e comunicar com antecedência em caso de falta);
+* Ajudar os alunos na realização de exercícios, provendo um feedback com qualidade e comprometido com seu dever de ajudar os alunos com dificuldades;
+* Participar da reunião semanal com a professora para apresentar relatório sobre a participação e desempenho dos alunos que frequentaram a monitoria durante a semana;
+* Manter uma lista de assinatura semanal com os alunos que frequentaram a monitoria;
+* Manter o blog da disciplina (caso essa ferramenta esteja sendo utilizada);
 
 ## Critérios utilizados na avaliação dos monitores
-. Presença nas aulas e na sala de monitoria nos horários estabelecidos;
-. Qualidade no atendimento aos alunos;
-. Qualidade do relatório apresentado na reunião semanal;
-. Conclusão e qualidade das atividades relacionadas a disciplina que foram decididas nas reuniões.
+* Presença nas aulas e na sala de monitoria nos horários estabelecidos;
+* Qualidade no atendimento aos alunos;
+* Qualidade do relatório apresentado na reunião semanal;
+* Conclusão e qualidade das atividades relacionadas a disciplina que foram decididas nas reuniões.
